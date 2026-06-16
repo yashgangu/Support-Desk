@@ -9,10 +9,5 @@ spring:
     hibernate:
       ddl-auto: update
 
-  security:
-    user:
-      name: ${ADMIN_USERNAME}
-      password: ${ADMIN_PASSWORD}
-
 server:
   port: ${PORT:8080}
