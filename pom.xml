@@ -100,11 +100,6 @@
 			<groupId>org.apache.logging.log4j</groupId>
 			<artifactId>log4j-api</artifactId>
 		</dependency>
-		<dependency>
-   			 <groupId>me.paulschwarz</groupId>
-   			 <artifactId>spring-dotenv</artifactId>
-   			 <version>4.0.0</version>
-		</dependency>
 
     </dependencies>
 
